@@ -23,8 +23,8 @@ Consolidarme como **Analista de Datos** capaz de aportar valor en la toma de dec
 ---
 
 ## 📬 Conéctate conmigo  
-- 🌐 [LinkedIn](www.linkedin.com/in/amanda-evangelista-1a4a39249)  
-- ✉️ [Email](amandaevangelista415@gmail.com)  
+- 🌐 [www.linkedin.com/in/amanda-evangelista-1a4a39249]  
+- ✉️ [amandaevangelista415@gmail.com] 
 
 ---
 
