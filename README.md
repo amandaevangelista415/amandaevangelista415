@@ -1,31 +1,36 @@
-# 👋 Hola, soy Amanda Evangelista  
+# 👋 ¡Hola! Soy [Tu Nombre]  
 
-💻 **Aspirante a Analista de Datos** | SQL • Python • Power BI • Excel Avanzado  
-
----
-
-## 🎯 Sobre mí  
-Soy **Técnica en Administración** en formación continua para especializarme en **Análisis de Datos**. Me apasiona transformar datos en información estratégica para la toma de decisiones. Actualmente sigo una **ruta intensiva de aprendizaje** que combina teoría y práctica con proyectos reales.  
+Soy una Analista de Datos en formación con una base en Administración Técnica y un enfoque en convertir los datos en información valiosa para la toma de decisiones estratégicas.  
+Mi objetivo es combinar análisis de datos, pensamiento crítico y herramientas tecnológicas para aportar soluciones rentables y sostenibles a empresas y proyectos.
 
 ---
 
-## 📚 Actualmente aprendiendo  
-- 🗄️ **SQL** → consultas, joins y optimización.  
-- 🐍 **Python** → análisis de datos con pandas y matplotlib.  
-- 📊 **Power BI** → dashboards y visualizaciones.  
-- 📑 **Excel Avanzado** → fórmulas, tablas dinámicas y automatización.  
+## En mi camino de aprendizaje
+Actualmente en una **Ruta Intensiva de Análisis de Datos**, desarrollando habilidades en:  
+- 📊 **Excel Avanzado**  
+- 🗄 **SQL para análisis de datos**  
+- 🐍 **Python para análisis y automatización**  
+- 📈 **Power BI para visualización e informes interactivos**  
 
 ---
 
-## 🚀 Objetivo profesional  
-Consolidarme como **Analista de Datos** capaz de aportar valor en la toma de decisiones mediante **análisis, visualización y storytelling con datos**, aplicando mi base en administración y nuevas competencias tecnológicas.  
+## Mis objetivos
+- Obtener experiencia laboral en tecnología y análisis de datos.  
+- Dominar herramientas y lenguajes clave para análisis, automatización y visualización.  
+- Construir un portafolio profesional que muestre proyectos reales y resultados medibles.  
+- A largo plazo: trabajar en proyectos propios con independencia financiera y foco en soluciones con alto valor futuro.
 
 ---
 
-## 📬 Conéctate conmigo  
-- 🌐 [www.linkedin.com/in/amanda-evangelista-1a4a39249]  
-- ✉️ [amandaevangelista415@gmail.com] 
+## 📌 Formación
+- **Técnico en Administración** – [Nombre de tu instituto o centro de estudios]  
+- **Ruta de formación en Análisis de Datos** – 2025 (en progreso)  
 
 ---
 
-💡 *Este repositorio será mi portafolio, donde documentaré mis avances, proyectos y retos durante mi formación.*  
+## Conecta conmigo
+- 🌐 LinkedIn: [www.linkedin.com/in/amanda-evangelista-1a4a39249] 
+- 📧 Email: [amandaevangelista415@gmail.com]
+---
+
+*"Los datos cuentan historias; yo me encargo de interpretarlas para que generen valor."*
