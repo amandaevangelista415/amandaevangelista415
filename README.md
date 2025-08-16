@@ -1,28 +1,20 @@
-# 👋 ¡Hola! Soy Amanda Evangelista  
+# Sobre mí  
+Soy **técnica en Administración** y actualmente desempeño funciones como **Auxiliar Administrativo en una empresa del sector retail**.  
+Paralelamente, estoy en una **ruta intensiva de formación en Análisis de Datos** con proyección hacia **Ciencia de Datos e Inteligencia Artificial**.  
 
-Soy una Analista de Datos en formación con una base en Administración Técnica y un enfoque en convertir los datos en información valiosa para la toma de decisiones estratégicas.  
-Mi objetivo es combinar análisis de datos, pensamiento crítico y herramientas tecnológicas para aportar soluciones rentables y sostenibles a empresas y proyectos.
+Mi objetivo es **conectar la visión de negocios con el análisis avanzado de datos**, creando soluciones **rentables, escalables y adaptadas al futuro tecnológico**.  
 
-## En mi camino de aprendizaje
-Actualmente en una **Ruta Intensiva de Análisis de Datos**, desarrollando habilidades en:  
-- 📊 **Excel Avanzado**  
-- 🗄 **SQL para análisis de datos**  
-- 🐍 **Python para análisis y automatización**  
-- 📈 **Power BI para visualización e informes interactivos**  
+# Lo que estoy construyendo  
+- **Excel Avanzado** → optimización y automatización de reportes.  
+- **SQL** → consultas y manejo de bases de datos.  
+- **Python** → análisis, visualización y primeros pasos en machine learning.  
+- **Power BI** → dashboards interactivos para toma de decisiones.  
 
-## Mis objetivos
-- Obtener experiencia laboral en tecnología y análisis de datos.  
-- Dominar herramientas y lenguajes clave para análisis, automatización y visualización.  
-- Construir un portafolio profesional que muestre proyectos reales y resultados medibles.  
-- A largo plazo: trabajar en proyectos propios con independencia financiera y foco en soluciones con alto valor futuro.
+# Visión a Futuro  
+1. Ganar experiencia en roles de **Analista de Datos**.  
+2. Escalar hacia **Ciencia de Datos e IA aplicada a negocios**.  
+3. Desarrollar proyectos propios que unan **tecnología y estrategia empresarial**.  
 
-## Formación
-- **Técnico en Administración** – [Nombre de tu instituto o centro de estudios]  
-- **Ruta de formación en Análisis de Datos** – 2025 (en progreso)  
-
-## Conecta conmigo
-- 🌐 LinkedIn: [www.linkedin.com/in/amanda-evangelista-1a4a39249] 
-- 📧 Email: [amandaevangelista415@gmail.com]
----
-
-*"Los datos cuentan historias; yo me encargo de interpretarlas para que generen valor."*
+# Conecta conmigo  
+- [LinkedIn](www.linkedin.com/in/amanda-evangelista-1a4a39249)  
+- [Email](amandaevangelista415@gmail.com)  
