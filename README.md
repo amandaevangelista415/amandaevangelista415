@@ -16,5 +16,5 @@ Mi objetivo es **conectar la visión de negocios con el análisis avanzado de da
 3. Desarrollar proyectos propios que unan **tecnología y estrategia empresarial**.  
 
 # Conecta conmigo  
-- [LinkedIn](www.linkedin.com/in/amanda-evangelista-1a4a39249)  
-- [Email](amandaevangelista415@gmail.com)  
+- [www.linkedin.com/in/amanda-evangelista-1a4a39249]  
+- [amandaevangelista415@gmail.com]
